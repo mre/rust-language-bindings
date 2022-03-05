@@ -12,6 +12,7 @@ A list of available language bindings for Rust
 - [curryrs](https://github.com/mgattozzi/curryrs)
 
 # Lua
+
 - [hlua](https://github.com/tomaka/hlua)
 
 # Node
@@ -20,6 +21,7 @@ A list of available language bindings for Rust
 
 # Python
 
+- [pyo3](https://github.com/PyO3/pyo3)
 - [rust-cpython](https://github.com/dgrunwald/rust-cpython)
 - [rustpy](https://github.com/lukemetz/rustpy)
 
