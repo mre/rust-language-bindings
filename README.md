@@ -4,6 +4,7 @@ A list of available language bindings for Rust
 
 # C++
 
+- [cxx](https://github.com/dtolnay/cxx)
 - [rust-cpp](https://github.com/mystor/rust-cpp)
 - [rustcxx](https://github.com/google/rustcxx)
 
